@@ -12,6 +12,7 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+        <h1 className="text-d1 text-primary-500">설정여부 확인</h1>
       </div>
     </>
   );
